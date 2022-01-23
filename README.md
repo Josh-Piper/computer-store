@@ -6,6 +6,7 @@ Simple checkout store written in TypeScript allowing a cart to have discount rul
 
 ```bash
 git clone https://github.com/Josh-Piper/computer-store.git
+cd ./computer-store
 yarn install
 yarn run dev
 ```
