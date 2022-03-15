@@ -6,6 +6,9 @@
   "scripts": {
     "dev": "nodemon ./src/index.ts"
   },
+  "engines": {
+    "node": "16.3.0"
+  },
   "devDependencies": {
     "@types/node": "^17.0.10",
     "eslint": "^8.7.0",
